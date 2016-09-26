@@ -6,6 +6,10 @@
   text-align: center;
 }
 
-img {
-  border: 2px solid black;
+figure {
+  background-color: #fff;
+  max-width: 600px;
+  margin: 0 auto;
 }
+
+
